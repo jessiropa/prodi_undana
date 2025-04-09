@@ -33,5 +33,6 @@
     - [Prodi Farmasi Prog. Sarjana](https://farmasi.undana.ac.id/)
     - [Prodi Pendidikan Kedokteran Hewan](https://pendprofesidokterhewan.undana.ac.id/)
     - [Prodi Pendidikan Kedokteran Hewan](https://pendprofesidokterhewan.undana.ac.id/)
+    - Aplikasi ini digunakan oleh unit [International Relation Office Universitas Nusa Cendana](https://international.undana.ac.id/) sebagai platform resmi informasi internasional kampus.
 
 ### Fakultas Ekonomi dan Bisnis
