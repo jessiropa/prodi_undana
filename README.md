@@ -12,17 +12,17 @@
 
 ### Fakultas Sains dan Teknik
 
-    - [Matematika](https://kedokteran.undana.ac.id/)
-    - [Kimia](https://kedokteran.undana.ac.id/)
-    - [Fisika](https://kedokteran.undana.ac.id/)
-    - [Biologi](https://kedokteran.undana.ac.id/)
-    - [Ilmu Komputer](https://kedokteran.undana.ac.id/)
-    - [Teknik Sipil](https://kedokteran.undana.ac.id/)
-    - [Teknik Elektro](https://kedokteran.undana.ac.id/)
-    - [Teknik Mesin](https://kedokteran.undana.ac.id/)
-    - [Arsitektur](https://kedokteran.undana.ac.id/)
-    - [Teknik Pertambangan](https://kedokteran.undana.ac.id/)
-    - [Teknik Pembuatan Tenun Ikat](https://kedokteran.undana.ac.id/)
+- [Matematika](https://kedokteran.undana.ac.id/)
+- [Kimia](https://kedokteran.undana.ac.id/)
+- [Fisika](https://kedokteran.undana.ac.id/)
+- [Biologi](https://kedokteran.undana.ac.id/)
+- [Ilmu Komputer](https://kedokteran.undana.ac.id/)
+- [Teknik Sipil](https://kedokteran.undana.ac.id/)
+- [Teknik Elektro](https://kedokteran.undana.ac.id/)
+- [Teknik Mesin](https://kedokteran.undana.ac.id/)
+- [Arsitektur](https://kedokteran.undana.ac.id/)
+- [Teknik Pertambangan](https://kedokteran.undana.ac.id/)
+- [Teknik Pembuatan Tenun Ikat](https://kedokteran.undana.ac.id/)
 
 ### Fakultas Kesehatan Masyarakat
 
@@ -34,13 +34,5 @@
 - [Prodi Pendidikan Kedokteran Hewan](https://pendprofesidokterhewan.undana.ac.id/)
 - [Prodi Pendidikan Kedokteran Hewan](https://pendprofesidokterhewan.undana.ac.id/)
 - [Tulisan yang ingin ditampilkan](https://linknya.com)
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
 
 ### Fakultas Ekonomi dan Bisnis
