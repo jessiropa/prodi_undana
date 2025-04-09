@@ -28,12 +28,12 @@
 
 ### Fakultas Kedokteran dan Kedokteran Hewan
 
-    - [Prodi Pendidikan Kedokteran](https://kedokteran.undana.ac.id/)
-    - [Prodi S1 Kedokteran Hewan](https://kedokteranhewan.undana.ac.id/)
-    - [Prodi Farmasi Prog. Sarjana](https://farmasi.undana.ac.id/)
-    - [Prodi Pendidikan Kedokteran Hewan](https://pendprofesidokterhewan.undana.ac.id/)
-    - [Prodi Pendidikan Kedokteran Hewan](https://pendprofesidokterhewan.undana.ac.id/)
-    - [Tulisan yang ingin ditampilkan](https://linknya.com)
+- [Prodi Pendidikan Kedokteran](https://kedokteran.undana.ac.id/)
+- [Prodi S1 Kedokteran Hewan](https://kedokteranhewan.undana.ac.id/)
+- [Prodi Farmasi Prog. Sarjana](https://farmasi.undana.ac.id/)
+- [Prodi Pendidikan Kedokteran Hewan](https://pendprofesidokterhewan.undana.ac.id/)
+- [Prodi Pendidikan Kedokteran Hewan](https://pendprofesidokterhewan.undana.ac.id/)
+- [Tulisan yang ingin ditampilkan](https://linknya.com)
 
 Link to the sample section: [Link Text](#sample-section).
 
