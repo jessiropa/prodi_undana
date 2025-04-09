@@ -8,21 +8,28 @@
 
 ### Fakultas Hukum
 
+- [Prodi Ilmu Hukum](https://ilmuhukum.undana.ac.id/)
+- [Prodi Magister Ilmu Hukum](https://magisterhukum.undana.ac.id/)
+
 ### Fakultas Pertanian
+
+- [Prodi Agroteknologi](https://agroteknologi.undana.ac.id/)
+- [Prodi Agribisnis](https://agribisnis.undana.ac.id/)
+- [Prodi Kehutanan](https://kehutanan.undana.ac.id/)
 
 ### Fakultas Sains dan Teknik
 
-- [Matematika](https://kedokteran.undana.ac.id/)
-- [Kimia](https://kedokteran.undana.ac.id/)
-- [Fisika](https://kedokteran.undana.ac.id/)
-- [Biologi](https://kedokteran.undana.ac.id/)
-- [Ilmu Komputer](https://kedokteran.undana.ac.id/)
-- [Teknik Sipil](https://kedokteran.undana.ac.id/)
-- [Teknik Elektro](https://kedokteran.undana.ac.id/)
-- [Teknik Mesin](https://kedokteran.undana.ac.id/)
-- [Arsitektur](https://kedokteran.undana.ac.id/)
-- [Teknik Pertambangan](https://kedokteran.undana.ac.id/)
-- [Teknik Pembuatan Tenun Ikat](https://kedokteran.undana.ac.id/)
+- [Prodi Matematika](https://kedokteran.undana.ac.id/)
+- [Prodi Kimia](https://kedokteran.undana.ac.id/)
+- [Prodi Fisika](https://kedokteran.undana.ac.id/)
+- [Prodi Biologi](https://kedokteran.undana.ac.id/)
+- [Prodi Ilmu Komputer](https://kedokteran.undana.ac.id/)
+- [Prodi Teknik Sipil](https://kedokteran.undana.ac.id/)
+- [Prodi Teknik Elektro](https://kedokteran.undana.ac.id/)
+- [Prodi Teknik Mesin](https://kedokteran.undana.ac.id/)
+- [Prodi Arsitektur](https://kedokteran.undana.ac.id/)
+- [Prodi Teknik Pertambangan](https://kedokteran.undana.ac.id/)
+- [Prodi Teknik Pembuatan Tenun Ikat](https://kedokteran.undana.ac.id/)
 
 ### Fakultas Kesehatan Masyarakat
 
