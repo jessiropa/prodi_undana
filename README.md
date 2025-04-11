@@ -28,8 +28,6 @@
 - [Prodi Sosiologi](https://sosiologi.undana.ac.id/)
 - [Prodi Ilmu Politik](https://politik.undana.ac.id/)
 - [Prodi Ilmu Komunikasi](https://jikom.undana.ac.id/)
-- [Prodi Magister Ilmu Administrasi](https://magisteradministrasi.undana.ac.id/)
-- [Prodi Dokter Ilmu Administrasi](https://doctoradministrasi.undana.ac.id/)
 
 ### Fakultas Peternakan, Kelautan dan Perikanan
 
