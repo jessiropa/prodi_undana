@@ -2,6 +2,25 @@
 
 ### Fakultas Keguruan dan Ilmu Pendidikan
 
+- [Prodi Pendidikan Bahasa & Sastra Indonesia](https://bindo.undana.ac.id/)
+- [Prodi Pendidikan Bahasa Inggris](https://bing.undana.ac.id/)
+- [Prodi Pendidikan Bimbingan Konseling](https://bk.undana.ac.id/)
+- [Prodi Pendidikan Anak Usia Dini](https://paud.undana.ac.id/)
+- [Prodi Pendidikan Guru Sekolah Dasar](https://pgsd.undana.ac.id/)
+- [Prodi Pendidikan Luar Sekolah](https://pls.undana.ac.id/)
+- [Prodi Pendidikan Jasmani & Kesehatan](https://penjaskes.undana.ac.id/)
+- [Prodi Pendidikan Teknik Bangunan](https://ptb.undana.ac.id/)
+- [Prodi Pendidikan Teknik Elektro](https://pte.undana.ac.id/)
+- [Prodi Pendidikan Teknik Mesin](https://ptm.undana.ac.id/)
+- [Prodi Pendidikan Fisika](https://pendfisika.undana.ac.id/)
+- [Prodi Pendidikan Kimia](https://pendkimia.undana.ac.id/)
+- [Prodi Pendidikan Matematika](https://pendmatematika.undana.ac.id/)
+- [Prodi Pendidikan Biologi](https://pendbiologi.undana.ac.id/)
+- [Prodi Pendidikan Ekonomi](https://ekonomi.undana.ac.id/)
+- [Prodi Pendidikan Geografi](https://geografi.undana.ac.id/)
+- [Prodi Pendidikan PPKn](https://ppkn.undana.ac.id/id/)
+- [Prodi Pendidikan Sejarah](https://sejarah.undana.ac.id/)
+  
 ### Fakultas Ilmu Sosial dan Politik
 
 - [Prodi Administrasi Bisnis](https://abi.undana.ac.id/)
@@ -49,14 +68,11 @@
 
 - [Prodi Psikologi](https://psikologi.undana.ac.id/)
 - [Prodi Kesehatan Masyarakat](https://kesmas.undana.ac.id/)
-- [Prodi Magister Ilmu Kesehatan Masyarakat](https://magisterkesmas.undana.ac.id/)
 
 ### Fakultas Kedokteran dan Kedokteran Hewan
 
 - [Prodi Pendidikan Kedokteran](https://kedokteran.undana.ac.id/)
 - [Prodi S1 Kedokteran Hewan](https://kedokteranhewan.undana.ac.id/)
-- [Prodi Farmasi Prog. Sarjana](https://farmasi.undana.ac.id/)
-- [Prodi Pendidikan Kedokteran Hewan](https://pendprofesidokterhewan.undana.ac.id/)
 
 ### Fakultas Ekonomi dan Bisnis
 
